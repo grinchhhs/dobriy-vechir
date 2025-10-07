@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     long long z;
+    cout << "введи любе число: ";
     if (!(cin >> z)) return 0;
 
     long long result;
